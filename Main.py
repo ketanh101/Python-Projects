@@ -1,9 +1,3 @@
-#######################################
-# Ketan Honrao
-# PMDS
-# Final Project: Main Program
-# imported customlib
-#######################################
 from customlib import *
 
 file_name = "PyMeth_DataSci_Salaries.csv"
